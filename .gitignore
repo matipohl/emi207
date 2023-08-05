@@ -1,0 +1,16 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+
+# Mono Auto Generated
+[Mm]onoDevelop-[A-Za-z]*/
+[Mm]ono/[Bb]uild/
+[Bb]uild[Bb]ak/
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
